@@ -4,7 +4,7 @@ Este proyecto utiliza técnicas de minería de datos para analizar la generació
 ## Archivos:
 - **Código**: Análisis y limpieza de datos en Google Colab (`.ipynb`).
 - **Datos**: [Dataset de residuos sólidos] diccionario de datos. https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/raw/refs/heads/main/dataset_residuos_final.xlsx
-- **Diccionario de datos**: [
+- **Diccionario de datos**: [Diccionario] https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/raw/refs/heads/main/C.%20Formato_DiccionarioDatos_Generacion%20anual%20de%20residuos%20s%C3%B3lidos%20domiciliarios%20y%20municipales.xlsx
 ## Metodología:
 Se siguió la metodología **KDD** para la selección, preprocesamiento y modelado de los datos, y se emplearon técnicas de clustering para la segmentación de distritos.
 
