@@ -32,8 +32,8 @@ A continuación se presentan los **resultados del análisis exploratorio** y los
 ### Gráficos:
 
 1. **Fig 1. Relaciones entre variables**  
-   Relación positiva muy fuerte entre los indicadores de población (POB_TOTAL_INEI, POB_URBANA_INEI) y la generación total de residuos (GENERACION_MUN_TANIO, GENERACION_DOM_URBANA_TANIO, GENERACION_MUN_TDIA).
-   En contraste, la generación per cápita municipal (GENERACION_PER_CAPITA_MUNICIPAL) presenta correlaciones débiles con la población (r ≈ 0.20–0.26),
+   Relación positiva muy fuerte entre los indicadores de población y la generación total de residuos.
+   En contraste, la generación per cápita municipal presenta correlaciones débiles con la población (r ≈ 0.20–0.26),
    Puedes ver este gráfico a continuación:
 
    ![Figura1_Relaciones entre variables](https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/Figura1.png?raw=true)
