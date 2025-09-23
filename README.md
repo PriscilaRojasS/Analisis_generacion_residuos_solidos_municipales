@@ -52,8 +52,11 @@ El ranking de generación anual promedio muestra una alta concentración en Lima
 5.  **Fig 5. Relación entre Población y Generación de Residuos**
    El gráfico muestra una fuerte correlación positiva entre la población total y la cantidad de residuos sólidos generados. A medida que aumenta la población, también lo hacen los residuos municipales y domiciliarios.
     ![Fig 5. Relacion_poblacion_generacionr](https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/Figura5.png?raw=true)
+6. **Fig 6. Métodos para determinar el tamaño de k (número de clusters)**
+   ![Fig 6. MétodostamañoK](https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/Figura6.png?raw=true)
+8. **Fig 7. Clusters: Población vs. Generación de Residuos**
+   ![Fig7.Clusters](https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/Figura7.png?raw=true)
 
-    
     
 
 
