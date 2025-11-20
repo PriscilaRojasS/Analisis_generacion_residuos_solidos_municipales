@@ -1,21 +1,30 @@
-# Análisis de la Generación de Residuos Sólidos en Perú
-Este proyecto utiliza técnicas de minería de datos para analizar la generación de residuos sólidos en diversos distritos de Perú.
-## Archivos:
-- **Código**: ENTREGA_FINAL_G3_DM_ALPHA en Google Colab (`.ipynb`). https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/ENTREGA_FINAL_G3_DM_ALPHA.ipynb
-- **Datos**:  https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/dataset_residuos.xlsx
-- **Diccionario de datos**: [Diccionario] https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/raw/refs/heads/main/C.%20Formato_DiccionarioDatos_Generacion%20anual%20de%20residuos%20s%C3%B3lidos%20domiciliarios%20y%20municipales.xlsx
-  
-## Metodología:
-Se siguió la metodología **KDD** para la selección, preprocesamiento y modelado de los datos, y se emplearon técnicas de clustering para la segmentación de distritos.
+Este repositorio contiene el código fuente y el análisis desarrollado por el Grupo 3 para el curso de Data Mining. El proyecto integra datos abiertos (MINAM, MEF, INEI) para diagnosticar, segmentar y predecir la generación de residuos sólidos en los distritos del Perú.
 
-## Repositorio:
-El código se ejecuta en Google Colab y se presenta en este repositorio de GitHub.
+Objetivos
 
-## Cómo ejecutar:
-1. Clona el repositorio.
-2. Abre el archivo `.ipynb` en Google Colab.
-3. Ejecuta las celdas de código.
+Diagnosticar el estado actual de la generación de residuos a nivel nacional.
 
-## Licencia:
-Este proyecto es de uso académico.
+Segmentar los distritos en grupos homogéneos (Clusters) según patrones socioeconómicos y de generación.
+
+Predecir la generación anual de residuos utilizando modelos de Machine Learning.
+
+Tecnologías y Metodología
+
+Lenguaje: Python 3.x
+
+Librerías Clave: pandas, scikit-learn, plotly, streamlit, openpyxl.
+
+Metodología:
+
+Preprocesamiento: Limpieza, imputación y transformación de variables (StandardScaler, OneHotEncoder).
+
+Clustering (No Supervisado): Algoritmo K-Means con reducción de dimensionalidad (PCA) para identificar 4 perfiles de distritos.
+
+Regresión (Supervisado): Modelo Random Forest para estimar la generación total anual (Ton/Año).
+
+Estructura del Proyecto
+
+dataset_residuos.xlsx: Dataset consolidado con variables sociodemográficas, económicas y de residuos.
+
+ENTREGA_FINAL_G3_DM_BETA_1.ipynb: Notebook principal con el análisis exploratorio (EDA), entrenamiento de modelos y validación.
 
