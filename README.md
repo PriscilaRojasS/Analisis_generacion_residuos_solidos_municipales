@@ -1,7 +1,7 @@
 # Análisis de la Generación de Residuos Sólidos en Perú
 Este proyecto utiliza técnicas de minería de datos para analizar la generación de residuos sólidos en diversos distritos de Perú.
 ## Archivos:
-- **Código**: ENTREGA_FINAL_G3_DM_ALPHA en Google Colab (`.ipynb`).
+- **Código**: ENTREGA_FINAL_G3_DM_ALPHA en Google Colab (`.ipynb`). https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/ENTREGA_FINAL_G3_DM_ALPHA.ipynb
 - **Datos**:  https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/blob/main/dataset_residuos.xlsx
 - **Diccionario de datos**: [Diccionario] https://github.com/PriscilaRojasS/Analisis_generacion_residuos_solidos_municipales/raw/refs/heads/main/C.%20Formato_DiccionarioDatos_Generacion%20anual%20de%20residuos%20s%C3%B3lidos%20domiciliarios%20y%20municipales.xlsx
   
